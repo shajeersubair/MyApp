@@ -1,2 +1,2 @@
-# MyWork
+# MyApp
 TestApp
